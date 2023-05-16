@@ -13,7 +13,7 @@
 
 To use the APT Dataset App, follow these steps:
 
-1. Clone the repository to your local machine: git clone https://github.com/your-username/repository-name.git
+1. Clone the repository to your local machine: git clone [https://github.com/your-username/repository-name.git](https://github.com/Shujay10/Dataset.git)
 
 2. Locate the APK file `APK-Dataset.apk` in the repository.
 
