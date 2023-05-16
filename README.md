@@ -1,4 +1,4 @@
-# APT Dataset App
+# APT Dataset
 
 **APT Dataset App** is an Android application that provides access to public available datasets for APT (Advanced Persistent Threat) analysis. It collects data from a flowmeter and presents it in an easily accessible format.
 
